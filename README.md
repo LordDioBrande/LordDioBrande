@@ -9,4 +9,7 @@
 
 <h1 align="center">Oh? You're approaching my profile?</h1>
 
+[![Dio's Stats](https://github-readme-stats.vercel.app/api?username=LordDioBrande&show_icons=true&theme=catppuccin_mocha&border_radius=10&title_color=f5c2e7&icon_color=f5e0dc&text_color=cdd6f4&bg_color=1e1e2e)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Dio's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordDioBrande&layout=compact&theme=catppuccin_mocha&border_radius=10&title_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e)](https://github.com/anuraghazra/github-readme-stats)
 
