@@ -11,3 +11,12 @@
 
 ![My Incomparable Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My+Incomparable+Tech+Stack&lineCount=1&theme=catppuccin_macchiato&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%238bd5ca&line1=go%2Cgo%2C8aadf4%3Bnixos%2CNixOS%2C8aadf4%3Bneovim%2Cneovim%2Ca6da95%3Bdocker%2Cdocker%2C7dc4e4%3B)
 
+---
+
+|  MUDA MUDA MUDA!  |
+|  :---             |
+|  C++              |
+|  :---             |
+|  Web technologies |
+|  :---             |
+
