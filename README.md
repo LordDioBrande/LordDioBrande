@@ -1,3 +1,5 @@
+&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca
+
 <h1 align="center"> I am Dio Brande!</h1>
 <h3 align="center">I'll give you a chance. Go down two steps and I'll let you join my side. But if you'd rather die, then climb those stairs</h3>
 
@@ -7,6 +9,4 @@
 
 <h1 align="center">Oh? You're approaching my profile?</h1>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USER&show_icons=true&theme=radical&hide_border=true&title_color=FFD700&icon_color=FFD700)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER&layout=compact&theme=radical&hide_border=true&title_color=FFD700)
