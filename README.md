@@ -14,6 +14,7 @@
 ---
 
 |  MUDA MUDA MUDA!  |
+|  :---             |
 |  C++              |
 |  Web technologies |
 |  Documentation    |
