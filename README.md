@@ -7,19 +7,7 @@
 
 ---
 
-<p align="center">
-  <img src="./assets/stardust GIF.gif" width="205" style="vertical-align: middle;">
-
- <code style="vertical-align: middle; margin: 0 15px;"> [ ZA WARUDO ] </code>
-  
-  <img src="./assets/Dio Brando GIF.gif" width="300" style="vertical-align: middle;">
-</p>
-
-<h1 align="center">Oh? You're approaching my profile?</h1>
-
-<p align="center">
-<img src="./assets/toki GIF.gif">
-</p>
+Everything you do is MUDA. Your bugs, your merge conflicts, your legacy code — it's all meaningless before the power of The World.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=L0rdDioBrando&theme=catppuccin-macchiato&card_width=505&type=png)](https://git.io/streak-stats)
