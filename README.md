@@ -7,13 +7,17 @@
 
 ---
 
-<p align="left">
-<img src="./assets/stardust GIF.gif" height="500">
-</p>
-
-<p align="right">
-<img src="./assets/Dio Brando GIF.gif" height="500">
-</p>
+<table border="0" align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="stardust GIF.gif" width="300" />
+    </td>
+    <td width="20"></td>
+    <td align="center" valign="middle">
+      <img src="Dio Brando GIF.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Oh? You're approaching my profile?</h1>
 
