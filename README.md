@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/stardust GIF.gif" width="225" style="vertical-align: middle;">
+  <img src="./assets/stardust GIF.gif" width="205" style="vertical-align: middle;">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/Dio Brando GIF.gif" width="300" style="vertical-align: middle;">
 </p>
