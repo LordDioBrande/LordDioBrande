@@ -7,13 +7,17 @@
 
 ---
 
-<h1 align="center"> Everything you do is MUDA. Your bugs, your merge conflicts, your legacy code — it's all meaningless before the power of The World.</h1>
+<h3 align="center"> Everything you do is MUDA. Your bugs, your merge conflicts, your legacy code — it's all meaningless before the power of The World.</h3>
 
 <p align="center">
 <img src="./assets/jojo GIF.gif">
 </p>
 
 ---
+
+<p align="center">
+<img src="./assets/toki GIF.gif">
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=L0rdDioBrando&theme=catppuccin-macchiato&card_width=505&type=png)](https://git.io/streak-stats)
 
