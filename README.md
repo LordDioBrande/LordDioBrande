@@ -9,6 +9,7 @@
 
 Everything you do is MUDA. Your bugs, your merge conflicts, your legacy code — it's all meaningless before the power of The World.
 
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=L0rdDioBrando&theme=catppuccin-macchiato&card_width=505&type=png)](https://git.io/streak-stats)
 
