@@ -1,11 +1,22 @@
 <h1 align="center"> I am Dio Brando!</h1>
 <h3 align="center">I'll give you a chance. Go down two steps and I'll let you join my side. But if you'd rather die, then climb those stairs</h3>
 
-<img src="./assets/images.jpg" width="45%">
+<p align="left">
+<img src="./assets/stardus GIF.gif" width="45%">
+</p>
+
+
  
- &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://static.wikia.nocookie.net/antagonists/images/9/9f/Dio_Brando_SC.png/revision/latest?cb=20240418134323" width="170">
+<p align="right">
+<img src="./assets/Dio Brando GIF.gif" width="45%">
+</p>
 
 <h1 align="center">Oh? You're approaching my profile?</h1>
+
+<p align="center">
+<img src="./assets/toki GIF.gif" width="45%">
+</p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LordDioBrande&theme=catppuccin-macchiato&card_width=505&type=png)](https://git.io/streak-stats)
 
