@@ -1,23 +1,13 @@
 <h1 align="center"> I am Dio Brando!</h1>
 <h3 align="center">I'll give you a chance. Go down two steps and I'll let you join my side. But if you'd rather die, then climb those stairs</h3>
 
-<p align="center">
-<img src="./assets/Animated GIF.gif">
-</p>
-
 ---
 
-<table border="0" align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="./assets/stardust GIF.gif" width="300"/>
-    </td>
-    <td width="20"></td>
-    <td align="center" valign="middle">
-      <img src="./assets/Dio Brando GIF.gif" width="300"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/stardust GIF.gif" width="300" style="vertical-align: middle;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/Dio Brando GIF.gif" width="300" style="vertical-align: middle;">
+</p>
 
 <h1 align="center">Oh? You're approaching my profile?</h1>
 
