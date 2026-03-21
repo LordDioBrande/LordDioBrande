@@ -7,7 +7,7 @@
 
 ---
 
-Everything you do is MUDA. Your bugs, your merge conflicts, your legacy code — it's all meaningless before the power of The World.
+<h1 align="center"> Everything you do is MUDA. Your bugs, your merge conflicts, your legacy code — it's all meaningless before the power of The World.</h1>
 
 ---
 
