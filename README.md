@@ -2,6 +2,12 @@
 <h3 align="center">I'll give you a chance. Go down two steps and I'll let you join my side. But if you'd rather die, then climb those stairs</h3>
 
 <p align="left">
+<img src="./assets/Animated GIF.gif" height="200">
+</p>
+
+---
+
+<p align="left">
 <img src="./assets/stardust GIF.gif" height="200">
 </p>
 
