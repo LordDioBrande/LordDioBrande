@@ -3,7 +3,7 @@
 
 <img src="./assets/images.jpg" width="45%">
  
-width="300"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://static.wikia.nocookie.net/antagonists/images/9/9f/Dio_Brando_SC.png/revision/latest?cb=20240418134323" width="170">
+ &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://static.wikia.nocookie.net/antagonists/images/9/9f/Dio_Brando_SC.png/revision/latest?cb=20240418134323" width="170">
 
 <h1 align="center">Oh? You're approaching my profile?</h1>
 
