@@ -10,11 +10,11 @@
 <table border="0" align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="stardust GIF.gif" width="300" />
+      <img src="./assets/stardust GIF.gif" width="300"/>
     </td>
     <td width="20"></td>
     <td align="center" valign="middle">
-      <img src="Dio Brando GIF.gif" width="300" />
+      <img src="./assets/Dio Brando GIF.gif" width="300"/>
     </td>
   </tr>
 </table>
