@@ -29,12 +29,12 @@
 <img src="./assets/toki GIF.gif">
 </p>
 
-<h3 align="center">
+<p align="center">
 |  MUDA MUDA MUDA!  |
 |  :---             |
 |  C++              |
 |  Web technologies |
 |  Documentation    |
-|  Python           |</h3>
-
+|  Python           |
+</p>
 
